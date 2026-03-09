@@ -1,0 +1,37 @@
+<index>
+13
+25
+37
+</index>
+	<index>
+	4
+	7
+	10
+	</index>
+		<data>
+		<record>1|AI Journal|Neural Networks|Alice Johnson</record>
+		</data>
+<index>
+13
+25
+37
+</index>
+	<index>
+	40
+	43
+	46
+	</index>
+		<data>
+		<record>49|Math Annals|Matrix Theory|Willa James</record>
+		</data>
+<index>
+13
+25
+37
+</index>
+	<index>
+	40
+	43
+	46
+	</index>
+Could not find 51

@@ -1,0 +1,28 @@
+<index>
+17
+32
+41
+</index>
+	<data>
+	<record>4|Math Annals|Number Theory|David Brown</record>
+	<record>6|Economics Quarterly|Market Analysis|Frank Wilson</record>
+	<record>8|CS Review|Hashing Techniques|Henry Clark</record>
+	<record>14|AstroPhysics Letters|Galaxy Formation|Nathan Moore</record>
+	</data>
+	<data>
+	<record>17|BioMed|Cellular Pathways|Quinn Hughes</record>
+	<record>23|CS Advances|Distributed Systems|Wendy Adams</record>
+	<record>26|Economics Quarterly|Economic Forecasts|Zane Hall</record>
+	<record>29|BioMed|Cancer Studies|Cody Wright</record>
+	</data>
+	<data>
+	<record>32|CS Advances|Data Compression|Fiona Baker</record>
+	<record>36|AI Journal|AI Ethics|Jake Adams</record>
+	<record>38|AstroPhysics Letters|Black Hole Physics|Liam Rogers</record>
+	</data>
+	<data>
+	<record>41|CS Review|Big Data|Olive James</record>
+	<record>44|Journal of Chemistry|Chemical Reactions|Reed Cook</record>
+	<record>47|Medical Innovations|Clinical Trials|Una Moore</record>
+	<record>48|Journal of Biology|Ecology Studies|Victor Grant</record>
+	</data>

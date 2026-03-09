@@ -1,0 +1,22 @@
+add|13|Journal of Chemistry|Molecular Bonds|Mia Collins
+add|2|CS Review|Sorting Algorithms|Bob Smith
+add|28|Journal of Biology|Marine Biology|Bella Carter
+add|37|Physics Today|Plasma Physics|Kara Steele
+add|46|Physics Today|Cosmology|Theo Foster
+add|7|AI Journal|Deep Learning|Grace Martin
+add|24|AI Journal|GAN Applications|Xander Lopez
+add|39|Journal of Biology|Cell Biology|Mona Carter
+add|20|Economics Quarterly|Supply Chain|Tina Murphy
+add|5|Physics Today|Quantum Mechanics|Emily Davis
+add|35|Math Annals|Linear Algebra|Isla Grant
+add|31|Physics Today|Fluid Dynamics|Ethan King
+add|18|Math Annals|Abstract Algebra|Rachel Price
+add|45|AstroPhysics Letters|Star Formation|Sofia Taylor
+add|42|CS Advances|Cybersecurity|Piper Nelson
+add|50|Economics Quarterly|Global Trade|Xavier Ward
+add|10|Math Annals|Topology|Jack Turner
+add|33|Medical Innovations|Genetic Engineering|Gina Torres
+add|15|CS Advances|Graph Algorithms|Olivia Scott
+add|12|Economics Quarterly|Risk Management|Leo Young
+print2
+quit

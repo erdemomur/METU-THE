@@ -1,0 +1,62 @@
+<index>
+Economics Quarterly
+</index>
+	<index>
+	BioMed
+	</index>
+		<index>
+		AstroPhysics Letters
+		</index>
+			<data>
+			AI Journal
+				<record>36</record>
+			</data>
+			<data>
+			AstroPhysics Letters
+				<record>38</record>
+				<record>14</record>
+			</data>
+		<index>
+		CS Advances
+		</index>
+			<data>
+			BioMed
+				<record>17</record>
+				<record>29</record>
+			</data>
+			<data>
+			CS Advances
+				<record>23</record>
+				<record>32</record>
+			CS Review
+				<record>8</record>
+				<record>41</record>
+			</data>
+	<index>
+	Journal of Chemistry
+	</index>
+		<index>
+		Journal of Biology
+		</index>
+			<data>
+			Economics Quarterly
+				<record>26</record>
+				<record>6</record>
+			</data>
+			<data>
+			Journal of Biology
+				<record>48</record>
+			</data>
+		<index>
+		Math Annals
+		</index>
+			<data>
+			Journal of Chemistry
+				<record>44</record>
+			</data>
+			<data>
+			Math Annals
+				<record>4</record>
+			Medical Innovations
+				<record>47</record>
+			</data>

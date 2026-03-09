@@ -1,0 +1,24 @@
+<index>
+Economics Quarterly
+</index>
+	<data>
+	Medical Innovations
+		<record>27|Medical Innovations|Stem Cell Research|Alex Green</record>
+		<record>33|Medical Innovations|Genetic Engineering|Gina Torres</record>
+		<record>40|Medical Innovations|Drug Development|Noah Simmons</record>
+		<record>47|Medical Innovations|Clinical Trials|Una Moore</record>
+	</data>
+<index>
+Economics Quarterly
+</index>
+Could not find Journal of Biologyy
+<index>
+Economics Quarterly
+</index>
+	<data>
+	CS Advances
+		<record>15|CS Advances|Graph Algorithms|Olivia Scott</record>
+		<record>23|CS Advances|Distributed Systems|Wendy Adams</record>
+		<record>32|CS Advances|Data Compression|Fiona Baker</record>
+		<record>42|CS Advances|Cybersecurity|Piper Nelson</record>
+	</data>

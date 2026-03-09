@@ -1,0 +1,89 @@
+<index>
+CS Review
+Math Annals
+</index>
+	<index>
+	BioMed
+	</index>
+		<data>
+		AI Journal
+			<record>1</record>
+			<record>7</record>
+			<record>16</record>
+			<record>24</record>
+			<record>36</record>
+		AstroPhysics Letters
+			<record>14</record>
+			<record>22</record>
+			<record>38</record>
+			<record>45</record>
+		</data>
+		<data>
+		BioMed
+			<record>3</record>
+			<record>9</record>
+			<record>17</record>
+			<record>29</record>
+			<record>43</record>
+		CS Advances
+			<record>15</record>
+			<record>23</record>
+			<record>32</record>
+			<record>42</record>
+		</data>
+	<index>
+	Economics Quarterly
+	Journal of Biology
+	</index>
+		<data>
+		CS Review
+			<record>2</record>
+			<record>8</record>
+			<record>41</record>
+		</data>
+		<data>
+		Economics Quarterly
+			<record>6</record>
+			<record>12</record>
+			<record>20</record>
+			<record>26</record>
+			<record>50</record>
+		</data>
+		<data>
+		Journal of Biology
+			<record>28</record>
+			<record>34</record>
+			<record>39</record>
+			<record>48</record>
+		Journal of Chemistry
+			<record>13</record>
+			<record>21</record>
+			<record>44</record>
+		</data>
+	<index>
+	Medical Innovations
+	</index>
+		<data>
+		Math Annals
+			<record>4</record>
+			<record>10</record>
+			<record>18</record>
+			<record>30</record>
+			<record>35</record>
+			<record>49</record>
+		</data>
+		<data>
+		Medical Innovations
+			<record>27</record>
+			<record>33</record>
+			<record>40</record>
+			<record>47</record>
+		Physics Today
+			<record>5</record>
+			<record>11</record>
+			<record>19</record>
+			<record>25</record>
+			<record>31</record>
+			<record>37</record>
+			<record>46</record>
+		</data>

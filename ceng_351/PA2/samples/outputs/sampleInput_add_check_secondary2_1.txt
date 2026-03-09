@@ -1,0 +1,58 @@
+<index>
+Journal of Biology
+Math Annals
+</index>
+	<index>
+	AstroPhysics Letters
+	CS Review
+	</index>
+		<data>
+		AI Journal
+			<record>7</record>
+			<record>24</record>
+		</data>
+		<data>
+		AstroPhysics Letters
+			<record>45</record>
+		CS Advances
+			<record>42</record>
+			<record>15</record>
+		</data>
+		<data>
+		CS Review
+			<record>2</record>
+		Economics Quarterly
+			<record>20</record>
+			<record>50</record>
+			<record>12</record>
+		</data>
+	<index>
+	Journal of Chemistry
+	</index>
+		<data>
+		Journal of Biology
+			<record>28</record>
+			<record>39</record>
+		</data>
+		<data>
+		Journal of Chemistry
+			<record>13</record>
+		</data>
+	<index>
+	Medical Innovations
+	</index>
+		<data>
+		Math Annals
+			<record>35</record>
+			<record>18</record>
+			<record>10</record>
+		</data>
+		<data>
+		Medical Innovations
+			<record>33</record>
+		Physics Today
+			<record>37</record>
+			<record>46</record>
+			<record>5</record>
+			<record>31</record>
+		</data>

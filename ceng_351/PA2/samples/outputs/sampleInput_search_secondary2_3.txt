@@ -1,0 +1,24 @@
+<index>
+Journal of Biology
+</index>
+	<data>
+	Medical Innovations
+		<record>33|Medical Innovations|Genetic Engineering|Gina Torres</record>
+	</data>
+<index>
+Journal of Biology
+</index>
+	<data>
+	Math Annals
+		<record>35|Math Annals|Linear Algebra|Isla Grant</record>
+		<record>18|Math Annals|Abstract Algebra|Rachel Price</record>
+		<record>10|Math Annals|Topology|Jack Turner</record>
+	</data>
+<index>
+Journal of Biology
+</index>
+	<data>
+	AI Journal
+		<record>7|AI Journal|Deep Learning|Grace Martin</record>
+		<record>24|AI Journal|GAN Applications|Xander Lopez</record>
+	</data>

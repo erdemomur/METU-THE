@@ -1,0 +1,19 @@
+add|36|AI Journal|AI Ethics|Jake Adams
+add|47|Medical Innovations|Clinical Trials|Una Moore
+add|26|Economics Quarterly|Economic Forecasts|Zane Hall
+add|23|CS Advances|Distributed Systems|Wendy Adams
+add|38|AstroPhysics Letters|Black Hole Physics|Liam Rogers
+add|17|BioMed|Cellular Pathways|Quinn Hughes
+add|32|CS Advances|Data Compression|Fiona Baker
+add|8|CS Review|Hashing Techniques|Henry Clark
+add|48|Journal of Biology|Ecology Studies|Victor Grant
+add|29|BioMed|Cancer Studies|Cody Wright
+add|44|Journal of Chemistry|Chemical Reactions|Reed Cook
+add|6|Economics Quarterly|Market Analysis|Frank Wilson
+add|14|AstroPhysics Letters|Galaxy Formation|Nathan Moore
+add|41|CS Review|Big Data|Olive James
+add|4|Math Annals|Number Theory|David Brown
+search1|1
+search1|2
+search1|3
+quit

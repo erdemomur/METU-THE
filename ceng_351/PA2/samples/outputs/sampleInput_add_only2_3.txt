@@ -1,0 +1,36 @@
+<index>
+10
+24
+35
+42
+</index>
+	<data>
+	<record>2|CS Review|Sorting Algorithms|Bob Smith</record>
+	<record>5|Physics Today|Quantum Mechanics|Emily Davis</record>
+	<record>7|AI Journal|Deep Learning|Grace Martin</record>
+	</data>
+	<data>
+	<record>10|Math Annals|Topology|Jack Turner</record>
+	<record>12|Economics Quarterly|Risk Management|Leo Young</record>
+	<record>13|Journal of Chemistry|Molecular Bonds|Mia Collins</record>
+	<record>15|CS Advances|Graph Algorithms|Olivia Scott</record>
+	<record>18|Math Annals|Abstract Algebra|Rachel Price</record>
+	<record>20|Economics Quarterly|Supply Chain|Tina Murphy</record>
+	</data>
+	<data>
+	<record>24|AI Journal|GAN Applications|Xander Lopez</record>
+	<record>28|Journal of Biology|Marine Biology|Bella Carter</record>
+	<record>31|Physics Today|Fluid Dynamics|Ethan King</record>
+	<record>33|Medical Innovations|Genetic Engineering|Gina Torres</record>
+	</data>
+	<data>
+	<record>35|Math Annals|Linear Algebra|Isla Grant</record>
+	<record>37|Physics Today|Plasma Physics|Kara Steele</record>
+	<record>39|Journal of Biology|Cell Biology|Mona Carter</record>
+	</data>
+	<data>
+	<record>42|CS Advances|Cybersecurity|Piper Nelson</record>
+	<record>45|AstroPhysics Letters|Star Formation|Sofia Taylor</record>
+	<record>46|Physics Today|Cosmology|Theo Foster</record>
+	<record>50|Economics Quarterly|Global Trade|Xavier Ward</record>
+	</data>

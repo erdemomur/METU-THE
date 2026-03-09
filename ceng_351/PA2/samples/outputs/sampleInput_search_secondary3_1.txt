@@ -1,0 +1,30 @@
+<index>
+Economics Quarterly
+</index>
+	<index>
+	Journal of Chemistry
+	</index>
+		<index>
+		Math Annals
+		</index>
+Could not find Medical Innovationss
+<index>
+Economics Quarterly
+</index>
+	<index>
+	Journal of Chemistry
+	</index>
+		<index>
+		Journal of Biology
+		</index>
+Could not find Journal of Biologyy
+<index>
+Economics Quarterly
+</index>
+	<index>
+	BioMed
+	</index>
+		<index>
+		CS Advances
+		</index>
+Could not find CS Advancess

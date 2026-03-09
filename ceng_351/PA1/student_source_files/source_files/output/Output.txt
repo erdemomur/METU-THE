@@ -1,0 +1,168 @@
+
+--------------------------------------------------------------
+*** Drop tables ***
+Dropped 0 tables.
+
+--------------------------------------------------------------
+
+--------------------------------------------------------------
+*** Create tables ***
+Created 0 tables.
+
+--------------------------------------------------------------
+
+--------------------------------------------------------------
+*** Insert Participants ***
+0 participants were inserted.
+
+--------------------------------------------------------------
+
+--------------------------------------------------------------
+*** Insert Passengers ***
+0 passengers were inserted.
+
+--------------------------------------------------------------
+
+--------------------------------------------------------------
+*** Insert Drivers ***
+0 drivers were inserted.
+
+--------------------------------------------------------------
+
+--------------------------------------------------------------
+*** Insert Cars ***
+0 cars were inserted.
+
+--------------------------------------------------------------
+
+--------------------------------------------------------------
+*** Insert Trips ***
+0 trips were inserted.
+
+--------------------------------------------------------------
+
+--------------------------------------------------------------
+*** Insert Bookings ***
+0 bookings were inserted.
+
+--------------------------------------------------------------
+
+--------------------------------------------------------------
+*** Find participants who are both passengers and drivers ***
+No participants found who are both passengers and drivers.
+
+--------------------------------------------------------------
+
+--------------------------------------------------------------
+*** Find PINs, names, ages, and ratings of drivers who do not own any cars ***
+No drivers without cars found.
+
+--------------------------------------------------------------
+
+--------------------------------------------------------------
+*** Delete Drivers with No Cars ***
+0 drivers were deleted from Drivers.
+
+--------------------------------------------------------------
+
+--------------------------------------------------------------
+*** Testing 5.5: Find the PINs, names, ages, and ratings of drivers who do not own any cars ***
+No drivers without cars found.
+
+--------------------------------------------------------------
+
+--------------------------------------------------------------
+*** Find all cars that are not taken part in any trips ***
+No cars without trips found.
+
+--------------------------------------------------------------
+
+--------------------------------------------------------------
+*** Find all passengers who didn’t book any trips ***
+No passengers without bookings found.
+
+--------------------------------------------------------------
+
+--------------------------------------------------------------
+*** Find trips departing from: New York to: Chicago on: 2024-12-07 ***
+No trips found departing from New York to Chicago on 2024-12-07
+
+--------------------------------------------------------------
+
+--------------------------------------------------------------
+*** Find passengers booked on all trips destined at Seattle ***
+No passengers found booked on all trips destined at Seattle
+
+--------------------------------------------------------------
+
+--------------------------------------------------------------
+*** Find CarIDs owned by driver 464159 with at most 2 bookings ***
+No cars found for driver PIN 464159 with at most 2 bookings.
+
+--------------------------------------------------------------
+
+--------------------------------------------------------------
+*** Find average age of passengers with confirmed bookings for trips departing from city New York within the date range: 2024-12-05 to 2024-12-15 ***
+No data found for city New York within the date range: 2024-12-05 to 2024-12-15
+
+--------------------------------------------------------------
+
+--------------------------------------------------------------
+*** Find Passengers in a Given Trip 1698 ***
+No passengers found for TripID 1698.
+
+--------------------------------------------------------------
+
+--------------------------------------------------------------
+*** Find Drivers' Scores ***
+No driver scores found.
+
+--------------------------------------------------------------
+
+--------------------------------------------------------------
+*** Find Average Ratings of Drivers Who Have Trips Destined to Each City ***
+No average ratings found.
+
+--------------------------------------------------------------
+
+--------------------------------------------------------------
+*** Find Total Number of Bookings of Passengers for Each Membership Status ***
+No total bookings found for any membership status.
+
+--------------------------------------------------------------
+
+--------------------------------------------------------------
+*** Update drivers' ratings where the rating is smaller than or equal to 2.0 ***
+Number of rows updated: 0.
+
+--------------------------------------------------------------
+
+--------------------------------------------------------------
+*** Testing 5.16: All Drivers after Updating the Ratings ***
+No drivers found after updating the ratings.
+
+--------------------------------------------------------------
+
+--------------------------------------------------------------
+*** Find trips departing from the city: New York ***
+No trips found departing from New York
+
+--------------------------------------------------------------
+
+--------------------------------------------------------------
+*** Find all trips that have never been booked ***
+No trips without bookings found.
+
+--------------------------------------------------------------
+
+--------------------------------------------------------------
+*** Find the most booked trips per driver ***
+No trips found.
+
+--------------------------------------------------------------
+
+--------------------------------------------------------------
+*** Find Full Cars ***
+No full cars found.
+
+--------------------------------------------------------------

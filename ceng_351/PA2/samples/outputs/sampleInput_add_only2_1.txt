@@ -1,0 +1,79 @@
+<index>
+28
+</index>
+	<index>
+	7
+	13
+	</index>
+		<index>
+		5
+		</index>
+			<data>
+			<record>2|CS Review|Sorting Algorithms|Bob Smith</record>
+			</data>
+			<data>
+			<record>5|Physics Today|Quantum Mechanics|Emily Davis</record>
+			</data>
+		<index>
+		10
+		</index>
+			<data>
+			<record>7|AI Journal|Deep Learning|Grace Martin</record>
+			</data>
+			<data>
+			<record>10|Math Annals|Topology|Jack Turner</record>
+			<record>12|Economics Quarterly|Risk Management|Leo Young</record>
+			</data>
+		<index>
+		15
+		20
+		</index>
+			<data>
+			<record>13|Journal of Chemistry|Molecular Bonds|Mia Collins</record>
+			</data>
+			<data>
+			<record>15|CS Advances|Graph Algorithms|Olivia Scott</record>
+			<record>18|Math Annals|Abstract Algebra|Rachel Price</record>
+			</data>
+			<data>
+			<record>20|Economics Quarterly|Supply Chain|Tina Murphy</record>
+			<record>24|AI Journal|GAN Applications|Xander Lopez</record>
+			</data>
+	<index>
+	37
+	45
+	</index>
+		<index>
+		31
+		33
+		</index>
+			<data>
+			<record>28|Journal of Biology|Marine Biology|Bella Carter</record>
+			</data>
+			<data>
+			<record>31|Physics Today|Fluid Dynamics|Ethan King</record>
+			</data>
+			<data>
+			<record>33|Medical Innovations|Genetic Engineering|Gina Torres</record>
+			<record>35|Math Annals|Linear Algebra|Isla Grant</record>
+			</data>
+		<index>
+		39
+		</index>
+			<data>
+			<record>37|Physics Today|Plasma Physics|Kara Steele</record>
+			</data>
+			<data>
+			<record>39|Journal of Biology|Cell Biology|Mona Carter</record>
+			<record>42|CS Advances|Cybersecurity|Piper Nelson</record>
+			</data>
+		<index>
+		46
+		</index>
+			<data>
+			<record>45|AstroPhysics Letters|Star Formation|Sofia Taylor</record>
+			</data>
+			<data>
+			<record>46|Physics Today|Cosmology|Theo Foster</record>
+			<record>50|Economics Quarterly|Global Trade|Xavier Ward</record>
+			</data>
